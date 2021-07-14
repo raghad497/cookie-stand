@@ -1,2 +1,2 @@
 # cookie-stand
-##Important Note for TA : My work is based on Samer Allaham class repo , I followed all the steps we were told to follow to build this code and repeated the structure of some functions in the demo 
+## Important Note for TA : My JS and html work is based on Samer Allaham class repo , I followed all the steps we were told to follow to build this code and repeated the structure of some functions in the class demo 
